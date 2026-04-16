@@ -1,4 +1,3 @@
-# AiTerm QA 
+# AiTerm Quality Assurance (QA)
 
-This repository is designed to store test documentation and checklists for the AiTerm Chrome extension.
-
+This repository contains test documentation, checklists and test plans for the AiTerm project.

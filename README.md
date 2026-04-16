@@ -1,1 +1,8 @@
-AiTerm is a AI-powered Chrome extension for deep vocabulary learning. It goes beyond simple translation by providing context, difficulty levels (A1-C2), usage frequency, synonyms, and detailed AI explanations. Perfect for language exams or daily learning. Save words to your custom dictionary for efficient memorization. Enjoy a clean, distraction-free UI with dark mode and 10 localizations. 
+# AiTerm QA & Documentation
+
+This repository is designed to store test documentation and checklists for the AiTerm Chrome extension.
+
+## About the AiTerm project
+AiTerm is a smart, AI-powered Google Chrome extension designed for deep vocabulary learning, mastering phrases, and understanding complex terms.
+
+Unlike standard translators, AiTerm leverages advanced neural networks to focus on the specific vocabulary you want to truly understand and remember. It’s the ultimate tool for anyone preparing for exams like IELTS or TOEFL, aiming to expand their word bank, and striving to feel the language like a native speaker.
